@@ -1,0 +1,69 @@
+Konu 1: Değişken Tanımlama, İlkel Tipler ve String
+Konu 2: Operatörlerin Kullanımı
+
+Task 1: Öğrenci'ye ait yaş bilgisini tutan tamsayı değişkenini tanımlayıp
+24 değerini atayınız. (resmi kural ve notasyon kullanımına dikkat ediniz)
+
+Task 2:  Kolinin ağırlığını tutan ondalıklı sayı değişkenini tanıplayıp
+4.5 değerini atayınız. (resmi kural ve notasyon kullanımına dikkat ediniz)
+
+Task 3: Bir kutunun dolu mu yoksa boş mu olduğunu tutan mantıksal tip
+değişkenini tanımlayıp false değerini atayınız.
+(resmi kural ve notasyon kullanımına dikkat ediniz)
+
+Task 4: Bir ürünün birim fiyatını tutan float değişkeni tanımlayıp
+21.50 değerini atayınız.
+(resmi kural ve notasyon kullanımına dikkat ediniz)
+
+Task 5: Bir kişinin medeni halini belirtmek üzere Evli için E, Bekar B
+şeklinde veri saklayabilen bir değişken tanımlayınız.
+(resmi kural ve notasyon kullanımına dikkat ediniz)
+
+Task 6: Evrenin yaşının yaklaşık 14 milyar olduğu düşünülmektedir.
+Bu değeri tutabilen bir tam sayı değişkeni tanımlayınız.
+(resmi kural ve notasyon kullanımına dikkat ediniz)
+
+Task 7: byte veri tipinin maksimum ve minimum değerlerini tutan iki
+değişken tanımlayıp bunları ekrana yazdırınız.
+(resmi kural ve notasyon kullanımına dikkat ediniz)
+
+Task 8: short ve byte tipinde iki değişken tanımlayınız. Değerleri
+sırasıyla 1600 ve 120 olan bu değişkenleri toplayıp baska bir short
+değişkenine atayınız.
+
+Task 9: Benim adım Ahmet. çıktısını veren bir Java kodu yazınız. Ahmet
+değeri bir değişkenden elde edilecektir.
+(resmi kural ve notasyon kullanımına dikkat ediniz)
+
+Task 10: Önce bir kişinin doğduğu yılı, ayı ve günü ayrı ayrı değişkenlere,
+daha sonra da bunları örneğin 1970-12-23 şekilde birleştirip bir String
+değişkene atayınız. En sonunda da ekrana yazdırınız.
+(resmi kural ve notasyon kullanımına dikkat ediniz)
+
+Task 11: Tanımlanıp 5 değeri atanmış bir x değişkeni vardır.
+Bu değişkenin değerini 3 farklı şekilde bir artıran kodu yazınız.
+
+Task 12: Tanımlanıp 6 değeri atanmış bir y değişkeni vardır.
+Bu değişkenin değerini 3 farklı şekilde bir eksilten kodu yazınız.
+
+Task 13: Tanımlanıp 7 değeri atanmış bir z değişkeni vardır.
+Bu değişkenin değerini 2 farklı şekilde 4 artıran kodu yazınız.
+
+Task 14: 17 sayısının 3'e bölümünden kalanı, kalan değişkeninde tutan
+Java kodunu yazınız.
+
+Task 15: 10>=3 ifadesinin (expression) sonucunu geçerli bir değişkene
+atayınız.  (resmi kural ve notasyon kullanımına dikkat ediniz)
+
+Task 16: 15<18?'K':'B' ifadesinin sonucunu geçerli bir değişkene atayınız.
+(resmi kural ve notasyon kullanımına dikkat ediniz)
+
+Task 17: int result=11&7; ifadesi (statement) doğru çalışır mı?
+
+Task 18: boolean result=11!=10; ifadesi doğru çalışır mı?
+
+Task 19: (5<2) && (7>=3) şeklindeki bir ifade (expression) hangi tipte bir
+değişkene atanmalıdır?
+
+Task 20: 5>>1 ifadesi bir tamsayı değişkenine atanmak isteniyor.
+Gerçekleştirilebilir mi? Sonucu ekranda gösteriniz.

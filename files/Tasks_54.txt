@@ -1,0 +1,1 @@
+Konu: class, object, kalıtım, sarmalama, Metotlar, overload

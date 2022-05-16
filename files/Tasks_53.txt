@@ -1,0 +1,4 @@
+Konu: if, switch, for, while, diziler, çok boyutlu diziler
+
+
+

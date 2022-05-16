@@ -1,0 +1,1 @@
+Konu: Hata yönetimi, exception
