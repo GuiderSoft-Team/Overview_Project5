@@ -4,7 +4,7 @@ Konu 2: Operatörlerin Kullanımı
 Task 1: Öğrenci'ye ait yaş bilgisini tutan tamsayı değişkenini tanımlayıp
 24 değerini atayınız. (resmi kural ve notasyon kullanımına dikkat ediniz)
 
-Task 2:  Kolinin ağırlığını tutan ondalıklı sayı değişkenini tanıplayıp
+Task 2:  Kolinin ağırlığını tutan ondalıklı sayı değişkenini tanımlayıp
 4.5 değerini atayınız. (resmi kural ve notasyon kullanımına dikkat ediniz)
 
 Task 3: Bir kutunun dolu mu yoksa boş mu olduğunu tutan mantıksal tip
@@ -36,7 +36,7 @@ değeri bir değişkenden elde edilecektir.
 (resmi kural ve notasyon kullanımına dikkat ediniz)
 
 Task 10: Önce bir kişinin doğduğu yılı, ayı ve günü ayrı ayrı değişkenlere,
-daha sonra da bunları örneğin 1970-12-23 şekilde birleştirip bir String
+daha sonra da bunları örneğin 1970-12-23 şeklinde birleştirip bir String
 değişkene atayınız. En sonunda da ekrana yazdırınız.
 (resmi kural ve notasyon kullanımına dikkat ediniz)
 
