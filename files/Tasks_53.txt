@@ -36,4 +36,4 @@ output: 2   4
 Task 9: 500-1000 arası sayılardan aynı anda hem 7'ye hem de 11'e bölünenleri
 ekrana yazdırınız.
 
-Task 10:
+Task 10: Klavyeden girilen 10 adet sayıyı sıralayıp ekrana yazdırınız.
