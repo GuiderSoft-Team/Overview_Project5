@@ -1,4 +1,39 @@
 Konu: if, switch, for, while, diziler, çok boyutlu diziler
 
+Task 1: Klavyeden girilen iki tamsayı değerin büyük, küçük ya da eşit olduğunu
+gösteriniz.
+Örnek çıktılar:
+    5 daha büyüktür.
+    3 daha küçüktür.
+    İki sayı eşittir.
 
+Task 2: x ve y tamsayı değişkenlerinin değerleri sırasıyla 5 ve 7'dir.
+Değişkenlerin yerlerini değiştiren Java kodunu yazınız.
 
+Task 3: Tanımlanmış a ve b değişkenlerinden a büyük ise 1, b büyük ise -1 ve
+eğer eşitlerse 0 değerlerini ekrana yazdıran Java programını yazınız.
+
+Task 4: Tanımlanmış secim değişkeninin değeri 1-5 arasında ise "Hafta içi", 6-7
+arasında ise "Hafta sonu" ve bunların dışında bir değer almışsa "Tanımlı değil"
+mesajlarını ekrana yazdıran Java kodunu yazınız.
+
+Task 5: int[] values={2,4,6}; dizisi verildiğine göre sayıların toplamını
+ekrana yazdıran Java programını yazınız.
+
+Task 6: char[] chars={'F','A','R'}; dizisi verilmiştir. Eğer ortalaması
+hesaplansa hangi harf olurdu.
+
+Task 7: while ile sonsuz bir döngü kurunuz. Tanımladığınız flag değişkeni true
+ise döngüden çıkışı sağlayınız.
+
+Task 8: 2-10 arası çift sayıları, sayıların karelerini ekrana yazdıran Java kodunu yazınız.
+output: 2   4
+        4   16
+        6   36
+        8   64
+       10  100
+
+Task 9: 500-1000 arası sayılardan aynı anda hem 7'ye hem de 11'e bölünenleri
+ekrana yazdırınız.
+
+Task 10:
