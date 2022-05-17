@@ -37,3 +37,30 @@ Task 9: 500-1000 arası sayılardan aynı anda hem 7'ye hem de 11'e bölünenler
 ekrana yazdırınız.
 
 Task 10: Klavyeden girilen 10 adet sayıyı sıralayıp ekrana yazdırınız.
+
+Task 11: int[] sayilar={1,5,250,75,302,100,2,6,124,99,100,212,6,100,7}; ve
+int[] durum=new int[3]; dizileri verilmiştir. sayilar dizisindeki değerlerin
+100 sayısına göre durumları durum dizisinde tutulacaktır. Kaç adet sayı
+eşittir, kaç adet sayı büyüktür ve kaç adet sayı küçüktür?
+(0: eşit, 1: büyük, 2: küçük)
+
+Task 12: Task 11'de elde edilen sonucu yıldız (*) grafik şeklinde ekrana bastırınız.
+
+Task 13: Task 11'de verilen sayilar dizisini küçükten büyüğe doğru sıralayınız.
+
+Task 14: Task 11'de verilen sayilar dizisini büyükten küçüğe doğru sıralayınız.
+
+Task 15: Task 11'de verilen sayilar dizisini ters sırada yazdırınız.
+
+Task 16: Task 11'de verilen sayilar dizisini tersine (reverse) çeviriniz.
+
+Task 17:
+String[] teams={"Team 1","Team 2","Team 3"};
+
+int[][] scores={
+    {20,25,30},
+    {19,18,26},
+    {29,17,23},
+};
+
+dizileri verilmiştir. Score tablosunu ekrana yazdırınız.
