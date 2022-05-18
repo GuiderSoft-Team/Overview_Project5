@@ -52,6 +52,54 @@ Task 15: Task 6'da tasarlanan sınıftan faydalanarak kalıtım yoluyla
 Tennisball sınıfını tasarlayınız. Ek olarak float tipinde price özelliği
 olmalıdır.
 
+Bir kargo şirketi bütün gönderileri kutu (Box) şeklinde kabul etmektedir. Bu kutular
+tır dorsesine (Container) yüklenmektedir. Bu projeyle ilgili aşağıdaki görevleri
+yerine getiriniz.
 
+Task 16: Box sınıfını tasarlayınız. double tipinde üç özelliği olmalıdır.
+(width, height, depth)
 
+Task 17: Box sınıfı için sadece getter metotlarını tanımlayınız.
+
+Task 18: Box sınıfı için parametreli kurucu metodu tasarlayınız.
+
+Task 19: Box sınıfı için parametresiz kurucu metodu tasarlayınız. Bu metodun
+ilk komutu olarak paremetreli kurucu metodu 50,50,80 değerleriyle çağırınız.
+Bunun anlamı 5x5x5'lik bir kutu oluşturuyor olmasıdır.
+
+Task 20: Box sınıfı için getVolume() metodu tasarlayınız. Bu tür cisimlerin
+hacimleri üç alanın çarpımıyla hesaplanır. (width x height x depth)
+
+Task 21: Box sınıfının toString() metodunu override ediniz.
+Çıktı: Box [50 x 50 x 80]
+
+Task 22: Container sınıfını mühürlü (final) olarak Box sınıfından kalıtım
+yoluyla tasarlayınız.
+
+Task 23: Container sınıfının parametreli kurucu metodunu tasarlayınız.
+
+Task 24: Container sınıfının parametresiz kurucu metodunu tasarlayınız.
+Bu metodun ilk komutu olarak parametreli kurucu metodu aşağıdaki ölçülerle
+çağırınız. (width:250 x height: 300 x depth:1360)
+
+Task 25: Container sınıfına double capacity() metodunu ekleyiniz. Bu metot
+Container'ın hacmini döndürmelidir.
+
+Task 26: Container sınıfının toString() metodunu override ediniz.
+Çıktı: Container [250 x 300 x 1360]
+
+Task 27: Container sınıfı için void load(Box box) ve void unload(Box box) metotlarını
+(yükle ve yükü boşalt) tasarlayınız.
+Bunun için Container sınıfına ArrayList<Box> boxes alanı eklenmelidir. Burada
+dikkat edilecek husus kutuların toplam hacmi Container'ın hacmini aşmamalıdır.
+
+Task 28: Container sınıfına double loadVolume() metodunu ekleyiniz. Bu metot
+kutuların toplam hacmini döndürmelidir.
+
+Task 29: Container sınıfına double remainingVolume() metodunu ekleyiniz. Bu
+metot kalan hacmi hesaplayıp döndürmelidir.
+
+Task 30: Main class - main metodu içerisinde yeni bir Container oluşturup
+içerisine kutuları yerleştiriniz. Kapasiteyi, Yük miktarını ve kalan hacmi
+ekranda gösteriniz.
 
