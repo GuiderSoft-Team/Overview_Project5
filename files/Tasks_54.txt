@@ -44,7 +44,7 @@ Task 13: Task 6'da tasarlanan gerçek hayat nesnesinin hacmini hesaplayan
 double getVolume() metodunu tasarlayınız.
 Küre tipi nesnelerin hacmi (4/3)xPIxr^3 formülü ile hesaplanmaktadır.
 
-Task 14: Task 6'da sınıfın toString() metodunu override
+Task 14: Task 6'da tasarlanan sınıfın toString() metodunu override
 (iptal etme, geçersiz kılma, ezme, yeniden yazma) ediniz.
 Örnek Çıktı: Ball (r: 5.0, v: 523.6)
 
@@ -65,7 +65,7 @@ Task 18: Box sınıfı için parametreli kurucu metodu tasarlayınız.
 
 Task 19: Box sınıfı için parametresiz kurucu metodu tasarlayınız. Bu metodun
 ilk komutu olarak paremetreli kurucu metodu 50,50,80 değerleriyle çağırınız.
-Bunun anlamı 5x5x5'lik bir kutu oluşturuyor olmasıdır.
+Bunun anlamı 50x50x80'lik bir kutu oluşturuyor olmasıdır.
 
 Task 20: Box sınıfı için getVolume() metodu tasarlayınız. Bu tür cisimlerin
 hacimleri üç alanın çarpımıyla hesaplanır. (width x height x depth)
