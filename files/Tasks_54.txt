@@ -1,1 +1,57 @@
 Konu: class, object, kalıtım, sarmalama, Metotlar, overload
+
+Task 1: Verilen tamsayının karesini döndüren getKare isminde
+public ve static bir metot tasarlayınız.
+
+Task 2: a ve b integer parametrelerdir. Bu iki sayının toplamını döndüren
+sum isimli public static metodu tasarlayınız.
+
+Task 3: x ve y double parametrelerdir. Bu iki sayının toplamını ekranda
+gösteren showSum isimli metodu tasarlayınız.
+
+Task 4: public static void drawLine(int quantity, char symbol) şeklinde bir metot
+vardır. Aşağıda örnek kullanımı ve çıktısı bulunan bu metodu tamamlayınız.
+Kullanım: drawLine(5,'*');
+Çıktı   : *****
+
+Task 5: Task 4'te verilen metodun sadece '-' sembolünü ekrana basan overload'unu
+(aşırı yüklenmiş hali) tasarlayınız.
+Kullanım: drawLine(3);
+Çıktı   : ---
+
+Task 6: Ball isimli gerçek hayat nesnesinin tasarımını yapınız. Bu nesneye ait özellikler
+şunlardır; double radius, String color, boolean hasPattern.
+
+Task 7: Task 6'da verilen özellikler için getter ve setter metotlarını tasarlayınız.
+
+Task 8: Task 6'da verilen özellikleri kullanarak parametreli ve parametresiz
+constructor tasarlayınız.
+
+Task 9: Task 7'de radius için oluşturulan setter metodu içerisinde 1.0'dan
+küçük değerler için 1.0 ataması yapınız.
+
+Task 10: Task 7'de color için oluşturulan setter metodu içerisinde null, empty ve
+blank değerler için "black" ataması yapınız.
+
+Task 11: Task 9 ve Task 10 yapılan ayarlamalar Task 8'de oluşturulan
+parametreli constructor içerisinde kullanılmalıdır.
+
+Task 12: Task 8'de oluşturulan parametresiz constructor, parametreli constructor
+kullanılarak varsayılan ayarlara sabitlenmelidir. radius:1.0'a, color:"black"'e ve
+hasPattern:false'a ayarlanmış olmalıdır.
+
+Task 13: Task 6'da tasarlanan gerçek hayat nesnesinin hacmini hesaplayan
+double getVolume() metodunu tasarlayınız.
+Küre tipi nesnelerin hacmi (4/3)xPIxr^3 formülü ile hesaplanmaktadır.
+
+Task 14: Task 6'da sınıfın toString() metodunu override
+(iptal etme, geçersiz kılma, ezme, yeniden yazma) ediniz.
+Örnek Çıktı: Ball (r: 5.0, v: 523.6)
+
+Task 15: Task 6'da tasarlanan sınıftan faydalanarak kalıtım yoluyla
+Tennisball sınıfını tasarlayınız. Ek olarak float tipinde price özelliği
+olmalıdır.
+
+
+
+
