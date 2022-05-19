@@ -34,24 +34,43 @@ Task 12: getter ve setter metotları tasarlayınız.
 Task 13: Parametreli ve parametresiz constructor'ları tasarlayınız. content
 alanı constructor'a parametre olarak verilmemelidir.
 
-Task 13: checkOut metodunu implemente ediniz. Hesaplama yapılırken
+Task 14: checkOut metodunu implemente ediniz. Hesaplama yapılırken
 sadece price döndürülecektir.
 
-Task 14: CheckOut sınıfını tasarlayınız.
+Task 15: CheckOut sınıfını tasarlayınız.
 
-Task 15: CheckOut sınıfına ArrayList<AbstractProduct> products alanını ekleyiniz.
+Task 16: CheckOut sınıfına ArrayList<AbstractProduct> products alanını ekleyiniz.
 
-Task 16: CheckOut sınıfının parametresiz Constructor'ı metodunu tasarlayınız.
+Task 17: CheckOut sınıfının parametresiz Constructor'ı metodunu tasarlayınız.
 İçerisinde products alanı initialize edilecektir.
 
-Task 17: CheckOut sınıfı için void addProduct() metodunu tasarlayınız. Dikkat;
+Task 18: CheckOut sınıfı için void addProduct() metodunu tasarlayınız. Dikkat;
 product null olmadığı zaman listeye eklenecektir.
 
-Task 18: CheckOut sınıfı için void removeProduct() metodunu tasarlayınız.
+Task 19: CheckOut sınıfı için void removeProduct() metodunu tasarlayınız.
 
-Task 19: CheckOut sınıfı için double calculate() metodunu tasarlayınız.
+Task 20: CheckOut sınıfı için double calculate() metodunu tasarlayınız.
 Bu metot tüm ürünlerden oluşan total:double bir değer döndürecektir.
 
-Task 20: Main class - main metotdu içerisinde yeni bir CheckOut nesnesi
+Task 21: Main class - main metotdu içerisinde yeni bir CheckOut nesnesi
 oluşturunuz. Bu nesnenin addProduct metoduna hem Product hem de DigitalProduct
 nesneleri ekleyiniz. Ekrana calculate() metodundan dönen değeri yazdırınız.
+
+Task 22:CheckOut products alanı için getter metodu tasarlayınız.
+
+Task 23: ICard isimli interface'i tasarlayınız. void display() metodu olmalıdır.
+
+Task 24: IList isimli interface'i tasarlayınız. void list() metodu olmalıdır.
+
+Task 25: Product sınıfı hem ICard hem de IList interface'lerini implemente
+etmelidir.
+
+Task 26: DigitalProduct sınıfı hem ICard hem de IList interface'lerini implemente
+etmelidir.
+
+Task 27: ProductLayout sınıfını tasarlayınız. Sınıfa ait iki adet metot olmalıdır.
+public static void cardLayout ve listLayout. Bu metotlar nesnelerin
+display() ve list() metotlarını çalıştırarak kart kart veya liste olarak tüm ürünlere
+erişim sağlayacaktır.
+
+Task 28: ProductLayout sınıfını Main class - main metot içerisinde kullanınız.
