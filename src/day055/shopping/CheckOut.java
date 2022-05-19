@@ -5,6 +5,10 @@ import java.util.ArrayList;
 public class CheckOut {
     private ArrayList<AbstractProduct> products;
 
+    public ArrayList<AbstractProduct> getProducts() {
+        return products;
+    }
+
     public CheckOut() {
         products=new ArrayList();
     }
