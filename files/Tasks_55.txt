@@ -16,10 +16,42 @@ Task 5: checkOut isimli double döndüren soyut (abstract) bir metot tasarlayın
 
 Task 6: AbstractProduct soyut sınıfından Product sınıfını extend ediniz.
 
-Task 7: checkOut metodunu implemente ediniz.
-
-Task 7: Product sınıfına weight:double alanını ekleyiniz.
+Task 7: Product sınıfına weight:double alanını ekleyiniz. 1.0'ın altında olursa
+1.0 assign edilecektir.
 
 Task 8: getter ve setter metotları tasarlayınız.
 
-Task 9:
+Task 9: checkOut metodunu implemente ediniz. Hesaplama yapılırken dikkat;
+price ve shipping ücreti döndürülecektir.
+shipping ücreti: 1-4 kg 8.75 ve 5'ten yukarısı 12.00
+
+Task 10: AbstractProduct sınıfından DigitalProduct sınıfını extend ediniz.
+
+Task 11: DigitalProduct content:byte[] alanı eklenecektir.
+
+Task 12: getter ve setter metotları tasarlayınız.
+
+Task 13: Parametreli ve parametresiz constructor'ları tasarlayınız. content
+alanı constructor'a parametre olarak verilmemelidir.
+
+Task 13: checkOut metodunu implemente ediniz. Hesaplama yapılırken
+sadece price döndürülecektir.
+
+Task 14: CheckOut sınıfını tasarlayınız.
+
+Task 15: CheckOut sınıfına ArrayList<AbstractProduct> products alanını ekleyiniz.
+
+Task 16: CheckOut sınıfının parametresiz Constructor'ı metodunu tasarlayınız.
+İçerisinde products alanı initialize edilecektir.
+
+Task 17: CheckOut sınıfı için void addProduct() metodunu tasarlayınız. Dikkat;
+product null olmadığı zaman listeye eklenecektir.
+
+Task 18: CheckOut sınıfı için void removeProduct() metodunu tasarlayınız.
+
+Task 19: CheckOut sınıfı için double calculate() metodunu tasarlayınız.
+Bu metot tüm ürünlerden oluşan total:double bir değer döndürecektir.
+
+Task 20: Main class - main metotdu içerisinde yeni bir CheckOut nesnesi
+oluşturunuz. Bu nesnenin addProduct metoduna hem Product hem de DigitalProduct
+nesneleri ekleyiniz. Ekrana calculate() metodundan dönen değeri yazdırınız.
