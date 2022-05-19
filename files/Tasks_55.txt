@@ -4,6 +4,8 @@ Konu:  abstract, interface, override, polimorfizm
 Bir alışveriş sitesi için Fiziksel ve Dijital ürünlerin
 satış işlemleri programlanacaktır.
 
+Task 0: shopping isimli bir package oluşturunuz.
+
 Task 1: Öncelikle ürünle ilgili AbstractProduct isimli soyut bir sınıf tasarlayınız.
 
 Task 2: code:String, name:String, price:double alanlar tanımlayınız.
@@ -41,7 +43,7 @@ Task 15: CheckOut sınıfını tasarlayınız.
 
 Task 16: CheckOut sınıfına ArrayList<AbstractProduct> products alanını ekleyiniz.
 
-Task 17: CheckOut sınıfının parametresiz Constructor'ı metodunu tasarlayınız.
+Task 17: CheckOut sınıfının parametresiz Constructor metodunu tasarlayınız.
 İçerisinde products alanı initialize edilecektir.
 
 Task 18: CheckOut sınıfı için void addProduct() metodunu tasarlayınız. Dikkat;
@@ -52,7 +54,7 @@ Task 19: CheckOut sınıfı için void removeProduct() metodunu tasarlayınız.
 Task 20: CheckOut sınıfı için double calculate() metodunu tasarlayınız.
 Bu metot tüm ürünlerden oluşan total:double bir değer döndürecektir.
 
-Task 21: Main class - main metotdu içerisinde yeni bir CheckOut nesnesi
+Task 21: Main class - main metodu içerisinde yeni bir CheckOut nesnesi
 oluşturunuz. Bu nesnenin addProduct metoduna hem Product hem de DigitalProduct
 nesneleri ekleyiniz. Ekrana calculate() metodundan dönen değeri yazdırınız.
 

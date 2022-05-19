@@ -1,1 +1,16 @@
 Konu: Hata yönetimi, exception
+
+Bir proje kapsamında Doküman Yönetim Sistemi modulu geliştirilecektir. Aşağıdaki
+Task'leri yerine geitiriniz.
+
+Task 1: Settings sınfını tasarlayınız.
+
+Task 2: Bu sınıf Serializable interface'ini implemente etmelidir.
+
+Task 3: Sınıfın rootFolder:String, dataFolder:String isimli alanları olmalıdır.
+
+
+
+Task 2: Folder sınıfını tasarlayınız.
+
+Task 3:
