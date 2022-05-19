@@ -1,1 +1,25 @@
 Konu:  abstract, interface, override, polimorfizm
+
+
+Bir alışveriş sitesi için Fiziksel ve Dijital ürünlerin
+satış işlemleri programlanacaktır.
+
+Task 1: Öncelikle ürünle ilgili AbstractProduct isimli soyut bir sınıf tasarlayınız.
+
+Task 2: code:String, name:String, price:double alanlar tanımlayınız.
+
+Task 3: getter ve setter metotları tasarlayınız.
+
+Task 4: Parametreli ve parametresiz constructor'ları tasarlayınız.
+
+Task 5: checkOut isimli double döndüren soyut (abstract) bir metot tasarlayınız.
+
+Task 6: AbstractProduct soyut sınıfından Product sınıfını extend ediniz.
+
+Task 7: checkOut metodunu implemente ediniz.
+
+Task 7: Product sınıfına weight:double alanını ekleyiniz.
+
+Task 8: getter ve setter metotları tasarlayınız.
+
+Task 9:
