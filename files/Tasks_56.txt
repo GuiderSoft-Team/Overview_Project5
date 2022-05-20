@@ -73,7 +73,7 @@ deposit: balanc+=amount
 witdraw: balance-=amount
 getBalance: return balance
 
-Task 22: withdraw medodunda eğer çekilecek miktar balance'tan fazla ise
+Task 22: withdraw metodunda eğer çekilecek miktar balance'tan fazla ise
 InsufficientBalanceException fırlatılmaldır. Bu hata metot içinde yönetilmemelidir.
 
 Task 23: Main class - main metodu içerisinde bir adet Contact ve bir adet
@@ -83,3 +83,20 @@ Task 24: Bu nesneleri sout ile ekrana yazdırınız.
 
 Task 25: Customer nesnesine para ekleme (deposit) ve para çekme (withdraw)
 işlemleri yapıp hata fırlatıldığını gözlemleyiniz.
+
+Task 26: Product sınıfını tasarlayınız.
+
+Task 27: Product sınıfının id:int, name:String, price:double alanları olmalıdır.
+
+Task 28: Product nesneleri serileştirilebilmelidir.
+
+Task 29: Ayrıca static olarak save ve load metotları tasarlanmalıdır.
+Bu metotlar product nesnelerini diske kaydedecek ve geri yükleyecektir.
+
+Task 30: Product sınıfına static void showList metodu tasarlanacaktır.
+Bu metot ürün listesini ekrana yazdıracaktır.
+
+Task 31: Order sınıfını tasarlayınız.
+id:int, customer:Customer, products:ArrayList<Product> alanları eklenecektir.
+
+Task 32: Checkout sınıfını tasarlayınız.
